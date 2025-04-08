@@ -1,0 +1,6 @@
+# Ignore node_modules in the server folder
+server/node_modules/
+
+# Ignore .env in the server folder
+server/.env
+my-react/node_modules/
